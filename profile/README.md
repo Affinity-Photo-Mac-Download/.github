@@ -36,7 +36,7 @@ Affinity Photo is a powerful, award-winning photo editing software designed spec
 
 This professional-grade software combines incredible speed with advanced features, delivering everything you need for retouching photos, creating multi-layered compositions, or developing RAW files with absolute precision.
 
-![Affinity Photo Interface](https://cdn.serif.com/affinity/img/photo/home/0824/slider/photo-assets-020820240816--lg@2x.png)  
+![Affinity Photo Interface](https://amateurphotographer.com/wp-content/uploads/sites/7/2022/11/affinity-photo2-screenshot-rl-05-1600x900-1.jpg)  
 *Experience the intuitive interface of Affinity Photo for Mac*
 
 ---
@@ -109,3 +109,4 @@ Discover the newest tools and improvements in the current version of Affinity Ph
 
 ### 🔍 SEO Keywords
 
+Affinity Photo Mac Download, Affinity Photo Download Mac, Download Mac Affinity Photo, Mac Download Affinity Photo, Download Affinity Photo Mac, Affinity Photo 2 Mac Download, Affinity Photo 2 Download Mac, Download Mac Affinity Photo 2, Mac Download Affinity Photo 2, Download Affinity Photo 2 Mac, Affinity Photo for Mac free download, Affinity Photo macOS, Affinity Photo Mac full version, How to install Affinity Photo on Mac, Affinity Photo tutorial Mac, Affinity Photo latest version Mac
