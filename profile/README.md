@@ -1,4 +1,4 @@
-# 📷 Affinity Photo Mac Download - Professional Photo Editing Made Easy 🖥️
+# Affinity Photo Mac Download - Professional Photo Editing Made Easy
 
 ![Affinity Photo Interface](https://cdn.serif.com/affinity/img/photo/home/0824/slider/photo-ocio-020820240816--lg@2x.png)  
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔍 What is Affinity Photo?
+## What is Affinity Photo?
 
 Affinity Photo is a powerful, award-winning photo editing software designed specifically for creative professionals and photography enthusiasts. Unlike subscription-based alternatives, Affinity Photo offers a complete toolkit for image editing with a one-time purchase.
 
